@@ -8,7 +8,7 @@ Elegant terminal spinner（一款优雅的终端旋转器）
 
 👉 [online-show](https://stackblitz.com/edit/node-e4py5t)
 
-## Test：
+## Run：
 
 1. `npm install` 
 
